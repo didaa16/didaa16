@@ -11,7 +11,8 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge)](https://didaa16.github.io/Portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedhabibmezni)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedhabibmezni@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/didaa16)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/meznyahmed_)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ahmed.mezny.75/)
 
 </div>
 
@@ -34,11 +35,9 @@ const ahmed = {
 
 🌍 **Open-source contributor** | 🚀 **Tech explorer** | 💡 **Lifelong learner**
 
-Always eager to **innovate**, **optimize**, and **share knowledge** with the developer community!
-
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -65,37 +64,13 @@ Always eager to **innovate**, **optimize**, and **share knowledge** with the dev
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
-
-### Monitoring & Observability
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
-### Databases
+### Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## 🏆 Certifications
-
-<div align="center">
-
-| Certification | Issuer | Date |
-|--------------|--------|------|
-| ☁️ **AWS Academy Graduate - Cloud Foundations** | Amazon Web Services | Oct 2025 |
-| 🔒 **AWS Academy Graduate - Cloud Security** | Amazon Web Services | Oct 2025 |
-| 🌐 **Aviatrix Certified Engineer - Multicloud** | Aviatrix | Sep 2025 |
-| 📡 **CCNA - Switching, Routing & Wireless** | Cisco | May 2024 |
-| ⛓️ **Hashgraph Developer Course** | The Hashgraph Association | Nov 2025 |
 
 </div>
 
@@ -104,80 +79,43 @@ Always eager to **innovate**, **optimize**, and **share knowledge** with the dev
 ## 🎯 Featured Projects
 
 ### 🏥 [Dewini - Cloud-Native Medical Platform](https://github.com/didaa16/Dewini)
-> **Revolutionary healthcare management system** serving **1,000+ users**
+> Revolutionary healthcare management system serving **1,000+ users**
 
-**Tech Stack:** `Spring Boot` `Angular` `Python` `Kubernetes` `Docker` `Ansible` `CI/CD`
+**Stack:** `Spring Boot` `Angular` `Python` `Kubernetes` `Docker` `Ansible`
 
-**Key Features:**
 - ✨ Microservices architecture with **99.5% uptime**
-- 🤖 AI-powered emergency triage reducing wait times by **30%**
-- 📊 Handles **500+ daily transactions** seamlessly
+- 🤖 AI-powered emergency triage
 - 🚀 CI/CD pipeline cutting deployment time by **75%**
-
-**Impact:** Improved patient care efficiency and streamlined medical operations for healthcare facilities.
 
 ---
 
 ### 📊 Centralized Log Monitoring System
-> **Enterprise-grade observability solution** for multi-server environments
+> Enterprise-grade observability for multi-server environments
 
-**Tech Stack:** `Fluent Bit` `Grafana Loki` `Grafana` `Docker` `Kubernetes`
+**Stack:** `Fluent Bit` `Grafana Loki` `Grafana` `Docker` `Kubernetes`
 
-**Highlights:**
-- 📈 Improved observability by **40%** across 3 services
+- 📈 Improved observability by **40%**
 - ⚡ Reduced incident response time by **60%**
-- 🔄 Scalable infrastructure supporting **1,000+ concurrent users**
-- 🐳 Dockerized deployment reducing setup time by **50%**
 
 ---
 
 ### ⚽ [XtraTime - Sports Facility Booking](https://github.com/didaa16/XtraTime)
-> **Cross-platform booking system** with real-time availability
+> Cross-platform booking system with real-time availability
 
-**Tech Stack:** `JavaFX` `FlutterFlow` `Symfony` `REST API` `MySQL`
+**Stack:** `JavaFX` `FlutterFlow` `Symfony` `REST API`
 
-**Achievements:**
 - 🎯 Supports **200+ concurrent bookings**
-- 💳 Processes **1,000+ transactions monthly** with **99% success rate**
-- 📱 Multi-platform support (Web, Mobile, Desktop)
+- 💳 **1,000+ transactions monthly** with **99% success rate**
 
 ---
 
-### ✈️ [Luxury Seat - Travel Management System](https://github.com/didaa16/LuxurySeat)
-> **Desktop application** streamlining travel operations
+### ✈️ [Luxury Seat - Travel Management](https://github.com/didaa16/LuxurySeat)
+> Desktop app streamlining travel operations
 
-**Tech Stack:** `C++` `QT Designer` `SQL`
+**Stack:** `C++` `QT Designer`
 
-**Features:**
-- 📝 Manages **100+ customer records** efficiently
-- ⏱️ Reduced booking time by **40%** with intuitive UI
-- 🎨 Professional desktop interface with modern UX
-
----
-
-## 💼 Professional Experience
-
-### 💻 Freelance Software Developer @ **SPR01 Startup**
-**Sep 2025 - Oct 2025** | Tunis, Tunisia
-
-- 🔐 Engineered **QR code-based member identification system** using Spring Boot & Angular
-- 📉 Reduced manual data entry by **75%**
-- ✅ Achieved **99% accuracy** in payment validation
-- 👥 Benefited **200+ users** with streamlined operations
-
-### 🛠️ IT Intern @ **ESPRIT - Information Systems Department**
-**Jul 2025 - Sep 2025** | Ariana, Tunisia
-
-- 📊 Deployed **centralized log monitoring** improving observability by **40%**
-- ⚡ Reduced incident response time by **60%** with custom Grafana dashboards
-- 🐳 Implemented Docker-based monitoring infrastructure
-
-### 📋 IT Administrative Intern @ **ESPRIT**
-**Jun 2024 - Sep 2024** | Ariana, Tunisia
-
-- 📁 Optimized admission workflows reducing processing time by **25%**
-- 🎯 Improved verification accuracy by **30%**
-- 💬 Resolved **95% of technical issues within 24 hours**
+- 📝 Manages **100+ customer records**
+- ⏱️ Reduced booking time by **40%**
 
 ---
 
@@ -208,23 +146,15 @@ Always eager to **innovate**, **optimize**, and **share knowledge** with the dev
 
 ```yaml
 learning:
-  - Multi-Cloud Architecture (AWS, Azure, GCP)
-  - Advanced Kubernetes Patterns
-  - Service Mesh (Istio, Linkerd)
-  - GitOps with ArgoCD
-  - Cloud Security & Compliance
+  - Multi-Cloud Architecture
+  - Advanced Kubernetes
+  - Service Mesh
+  - Cloud Security
 
 building:
   - Scalable Microservices
   - CI/CD Automation
   - Infrastructure as Code
-  - Cloud-Native Applications
-
-exploring:
-  - AI/ML Integration
-  - Serverless Computing
-  - Edge Computing
-  - Blockchain Technology
 ```
 
 ---
@@ -240,6 +170,8 @@ exploring:
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge)](https://didaa16.github.io/Portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedhabibmezni)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedhabibmezni@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/meznyahmed_)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ahmed.mezny.75/)
 
 ---
 
